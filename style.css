@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    background-color: blueviolet;
+    
+}

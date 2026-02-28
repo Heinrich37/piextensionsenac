@@ -1,5 +1,5 @@
-x = input(int("Escolha um numero: ")) 
-y = input(int("Escolha o segundo numero: "))
+x = int(input("Escolha um numero: ")) 
+y = int(input("Escolha o segundo numero: "))
 res = y*x
 print(res)
 
